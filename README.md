@@ -4,7 +4,7 @@
 The purpose of this election was to determine the results of the elction in 3 counties with 3 candidates. We had the full election data and used python scripts to generate an audit of the election results and analyze the winners at both the county and candidate level
 
 ## Election Audit Results: ##
-[Commandline.png](https://github.com/mpournaras/Election_Challenge/blob/main/resources/election_analysis_command_line.png)
+![Commandline.png](https://github.com/mpournaras/Election_Challenge/blob/main/resources/election_analysis_command_line.png)
 
 ## Election Audit Summary ##
 
